@@ -28,9 +28,12 @@
    Prediction Page → Enter employee details and see attrition risk with probability.
    <img width="1896" height="967" alt="image" src="https://github.com/user-attachments/assets/95c701ea-ec7a-429f-93bf-67dffa378329" />
 
+   
+
    Dashboard → Visual charts for attrition risk and job satisfaction.
    <img width="1855" height="934" alt="image" src="https://github.com/user-attachments/assets/ab4540c4-162a-439a-b5f7-498628a59fe8" />
 
 ## Author
    Developed by Deekshita, MCA student.
+   
    Focus area: HR Analytics, Machine Learning, and Web App Development.
